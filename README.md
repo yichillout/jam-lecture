@@ -1,1 +1,1 @@
-# jam-lecture
+# jvm-lecture
